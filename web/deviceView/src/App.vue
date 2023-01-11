@@ -1,4 +1,3 @@
-// @ts-nocheck
 <template>
   <div class="flex w-full h-full">
     <div class="border-r border-gray-500">
